@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m @Priyank Patel<br> 👀 I’m interested in Mobile Application Development and Web Development<br>🔭 I’m currently working on mobile application development<br>👯 I’m looking to collaborate on mobile and web application development<br>🌱 I’m currently improving my React Native, Kotlin, Swift, mobile web application concepts<br>💬 Ask me about mobile application <br>⚡ Fun fact - I am lazy but smart
+👋 Hi, I’m @Priyank Patel<br> 👀 I’m interested in Mobile Application Development and Web Development<br>👯 I’m looking to collaborate on mobile and web application development<br>🌱 I’m currently improving my React, React Native, Kotlin, Swift, mobile web application concepts<br>💬 Ask me about web application <br>⚡ Fun fact - I am lazy but smart
 
 
 ![git](https://user-images.githubusercontent.com/46606790/181631229-fa6a175d-5b5a-4124-9085-2293e64ed17a.gif) 
@@ -30,5 +30,5 @@
 [![](https://visitcount.itsvg.in/api?id=Gurucaara&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
