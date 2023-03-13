@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m @Priyank Patel<br> 👀 I’m interested in Web Development.<br>👯 I’m looking to collaborate on Web Development and Mobile Application Development.<br>🌱 I’m currently improving my React, React Native, Kotlin, Swift, mobile web application concepts<br>💬 Ask me about Web Development <br>⚡ Fun fact - I am lazy but smart
+👋 Hi, I’m @Priyank Patel<br> 👀 I’m interested in Web Development.<br>👯 I’m looking to collaborate on Web Development and Mobile Application Development.<br>🌱 I’m currently improving my React, HTML, CSS, JavaScript, React Native, Kotlin, Swift, mobile web application concepts<br>💬 Ask me about Web Development <br>⚡ Fun fact - I am lazy but smart
 
 
 ![git](https://user-images.githubusercontent.com/46606790/181631229-fa6a175d-5b5a-4124-9085-2293e64ed17a.gif) 
